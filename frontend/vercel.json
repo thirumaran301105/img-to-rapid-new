@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://img-to-rapid.onrender.com/api/:path*"
+      "destination": "https://img-to-rapid-new.onrender.com/api/:path*"
     }
   ]
 }
